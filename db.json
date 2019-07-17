@@ -10,5 +10,43 @@
       "username":"candra",
       "password":"1234"
     }
+  ],
+  "standing" : [
+    {
+      "id":1,
+      "rangking":1,
+      "club":"Arsenal",
+      "win":5,
+      "draw":3,
+      "lose":0,
+      "poin":18
+    },
+    {
+      "id":2,
+      "rangking":2,
+      "club":"Chelsea",
+      "win":5,
+      "draw":2,
+      "lose":1,
+      "poin":17
+    },
+    {
+      "id":3,
+      "rangking":3,
+      "club":"Liverpol",
+      "win":4,
+      "draw":2,
+      "lose":2,
+      "poin":14
+    },
+    {
+      "id":4,
+      "rangking":4,
+      "club":"Manchester United",
+      "win":3,
+      "draw":3,
+      "lose":2,
+      "poin":12
+    }
   ]
 }
