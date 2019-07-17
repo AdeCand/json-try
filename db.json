@@ -1,14 +1,61 @@
 {
   "users" : [
     {
-    "id":1,
-    "username":"ade",
-    "password":"1234"
+      "id":1,
+      "username":"ade",
+      "password":"1234"
     },
     {
-    "id":2,
-    "username":"candra",
-    "password":"1234"
+      "id":2,
+      "username":"candra",
+      "password":"1234"
+    }
+  ],
+  "standing" : [
+    {
+      "id":1,
+      "rangking":1,
+      "club":"Chelsea",
+      "win":5,
+      "draw":3,
+      "lose":0,
+      "poin":18
+    },
+    {
+      "id":2,
+      "rangking":2,
+      "club":"Liverpol FC",
+      "win":5,
+      "draw":1,
+      "lose":2,
+      "poin":16
+    },
+    {
+      "id":3,
+      "rangking":3,
+      "club":"Manchester City",
+      "win":4,
+      "draw":3,
+      "lose":1,
+      "poin":15
+    },
+    {
+      "id":4,
+      "rangking":4,
+      "club":"Manchester United",
+      "win":4,
+      "draw":2,
+      "lose"2,
+      "poin":12
+    },
+    {
+      "id":5,
+      "rangking":5,
+      "club":"Arsenal",
+      "win":3,
+      "draw":3,
+      "lose":2,
+      "poin":12
     }
   ]
 }
